@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=Icon.jpg --name="EasyBot" main.py
